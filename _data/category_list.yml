@@ -3,3 +3,6 @@
 account:
   name: My Account
   description: How to make changes and update your account
+payments:
+  name: Payments
+  description: How to get your payment and more
