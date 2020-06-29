@@ -18,25 +18,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Odin - A Jekyll Knowledge Base Theme
-description: Odin is a simple to setup and use Jekyll theme for help desks and knowledge bases. Hosts for free on Github Pages!
+title: Earn Doing Support Centre
+description: Get help and support while using Earn Doing
 baseurl: # the subpath of your site, e.g. /support
 url: https://support.earndoing.com # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
-content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
-use_authors: true #Set this to false to disable showing post authors
+content_type: Support Centre #Define whether this is a knowledge base, help center, or something else
+use_authors: false #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: Earn Doing
 header: How can we help you?
-subheader: Support and documentation for Odin
+subheader: Support for Earn Doing
 
 meta_image: odin-meta.png
 
 # Social Links
 twitter_username: EarnDoing
-facebook_page:
+facebook_page: EarnDoing
 github_username: 
 email: contact@earndoing.com
 linkedin_page:
@@ -44,8 +44,8 @@ instagram_username:
 
 
 # Navivation
-nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
+nav_item_one: Facebook
+nav_item_one_link: https://www.facebook.com/EarnDoing
 
 nav_item_two: Twitter
 nav_item_two_link: https://twitter.com/TheTeaGuns
@@ -57,15 +57,15 @@ nav_button: Return to Earn Doing
 nav_button_link: https://www.earndoing.com
 
 # More Help
-help_one_title: Odin Bugs
-help_one_content: If you find any bugs or problems with this theme, please open an issue over on Github.
-help_one_button: Github
-help_one_link: https://github.com/TeaGuns/odin/issues
+help_one_title: Submit a Support Ticket
+help_one_content: Can't find what your looking for? Then please send us a support ticket and we will get back to you as soon as possible
+help_one_button: Create Support Ticket
+help_one_link: https://www.earndoing.com/sites/contact.aspx
 
 help_two_title: Twitter
-help_two_content: Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.
+help_two_content:  Follow us on Twitter to get all the latest news and updates from Earn Doing
 help_two_button: Twitter
-help_two_link: https://twitter.com/theteaguns
+help_two_link: https://twitter.com/EarnDoing
 
 # Build settings
 theme: minima
