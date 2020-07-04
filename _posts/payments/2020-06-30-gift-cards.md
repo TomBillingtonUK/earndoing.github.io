@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How can I request a gift card?"
-date: 2020-06-25 00:00:00 -0000
+date: 2020-06-23 00:00:00 -0000
 category: payments
 author: tom
 short-description: Find out how to request to be paid with a gift card.
