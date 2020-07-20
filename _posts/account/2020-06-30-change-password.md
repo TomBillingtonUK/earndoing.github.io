@@ -22,4 +22,3 @@ This article will explain how you can change your password when you have signed 
 8. You should now be able to login with your new password. 
 
 If you are having issues changing your password, [submit a support ticket](https://www.earndoing.com/sites/contact.aspx).
-s

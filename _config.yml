@@ -49,10 +49,10 @@ nav_item_one: Facebook
 nav_item_one_link: https://www.facebook.com/EarnDoing
 
 nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/TheTeaGuns
+nav_item_two_link: https://twitter.com/EarnDoing
 
-nav_item_three: #
-nav_item_three_link: #
+nav_item_three: Discord
+nav_item_three_link: https://discord.gg/ySbm7t
 
 nav_button: Return to Earn Doing
 nav_button_link: https://www.earndoing.com
@@ -63,10 +63,10 @@ help_one_content: Can't find what your looking for? Then please send us a suppor
 help_one_button: Create Support Ticket
 help_one_link: https://www.earndoing.com/sites/contact.aspx
 
-help_two_title: Twitter
-help_two_content:  Follow us on Twitter to get all the latest news and updates from Earn Doing
-help_two_button: Twitter
-help_two_link: https://twitter.com/EarnDoing
+help_two_title: Discord
+help_two_content: Join our Discord community for help, advice and a general chit chat.
+help_two_button: Discord
+help_two_link: https://discord.gg/ySbm7t
 
 # Build settings
 theme: minima
