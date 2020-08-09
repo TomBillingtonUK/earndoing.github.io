@@ -10,7 +10,7 @@ registration:
 account:
   name: My Account
   description: How to make changes and update your account
-  size: 8
+  size: 9
 earning-money:
   name: Earning Money
   description: Find out how to earn money on Earn Doing
