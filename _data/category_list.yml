@@ -14,7 +14,7 @@ account:
 earning-money:
   name: Earning Money
   description: Find out how to earn money on Earn Doing
-  size: 0
+  size: 1
 account-verification:
   name: Account Verification
   description: How and why you need to verify your account
