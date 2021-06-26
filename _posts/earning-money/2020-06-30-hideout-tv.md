@@ -35,7 +35,7 @@ To make money on Hideout TV you need to watch videos on the site. You will get p
 
 1. Login to Hideout Tv - [https://hideout.co/login.php](https://hideout.co/login.php)
 2. Click on **Rewards** on the left sidebar or visit [https://hideout.co/rewards.php](https://hideout.co/rewards.php).
-3. Under My Blance click on the **Start Redeem Process** button.
+3. Under My Balance click on the **Start Redeem Process** button.
 4. Select **earndoing.com** in the drop-down
 5. Click **Redeem Balance**
 6. Your rewards will arrive in your Earn Doing account balance in shortly afterwards.
