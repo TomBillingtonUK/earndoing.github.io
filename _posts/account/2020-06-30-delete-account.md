@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "How do I delete my account?"
