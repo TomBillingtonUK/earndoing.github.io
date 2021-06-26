@@ -2,36 +2,27 @@
 general:
   name: General
   description: General questions about Earn Doing
-  size: 0
 registration:
   name: Registration
   description: Help and Support while joining Earn Doing
-  size: 3
 account:
   name: My Account
   description: How to make changes and update your account
-  size: 9
 earning-money:
   name: Earning Money
   description: Find out how to earn money on Earn Doing
-  size: 1
 account-verification:
   name: Account Verification
   description: How and why you need to verify your account
-  size: 2
 payments:
   name: Payments
   description: How to get your payment and more
-  size: 10
 referrals:
   name: Referrals
   description: Find out more information about direct and rented referrals
-  size: 1
 contests:
   name: Contests
   description: Find out about the contests and promotions we run on Earn Doing
-  size: 1
 technical:
   name: Technical Support
   description: Help and advice to slove technical issues
-  size: 0
