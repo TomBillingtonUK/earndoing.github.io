@@ -11,7 +11,7 @@ short-description: Find out how long it takes to receive your payment once you h
 
 # When will you send my payment?
 
-Earn Doing, processes payments around 16:00 server time every day.
+Earn Doing processes payments once a month. All payment requests which are made during a month will be made at the start of the following month. 
 
-However, payments may take up to 7 days as specified in our [Terms of Service](https://www.earndoing.com/sites/tos.aspx).
+For example if you request a payment in January you will be paid at the start of March, for more details check out the [Terms of Service](https://www.earndoing.com/sites/tos.aspx).
 
